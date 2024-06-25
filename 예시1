@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+    .권오헌의div {
+      border: 5px outset red;
+      background-color: yellow;    
+      text-align: center;
+    }
+    </style>
+  </head>
+  
+  <body>
+    <div class="권오헌의div">
+      <h2>산의초등학교</h2>
+      <p>배려로 더불어 함께 하는 산의인</p>
+    </div>
+    <p>교목:향나무,교화:진달래</p>
+  </body>
+</html>
